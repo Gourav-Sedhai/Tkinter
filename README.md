@@ -1,4 +1,4 @@
 # Tkinter
 Examples of Tkinter
 -------------------
-Some examples using tkinter
+Some examples using Tkinter
